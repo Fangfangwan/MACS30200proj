@@ -1,6 +1,6 @@
-###MACS 30200 PS1 Part 2
+### MACS 30200 PS1 Part 2
 
-###Fangfang Wan
+### Fangfang Wan
 
 #### Part 2
 
@@ -12,7 +12,7 @@ The research question of this paper is whether the increasing political polariza
 
 This paper used American National Election Studies (ANES) as the main dataset, and it used three subsets of this dataset - 1948-2012 Time Series Cumulative, and 2008 and 2012 Time Series Study.
 
-#####Question 3
+##### Question 3
 
 This paper did not refer to any theory.
 
@@ -24,7 +24,7 @@ This paper is an identification exercise.
 
 The computational method that this paper has used is Data Generating Process (DGP), in which the authors used 9 models to measure political polarization.
 
-#####Question 6
+##### Question 6
 
 The most obvious problem of this paper is that it does not rule out the spillover effect from young people to older people. Is it possible to extrapolate and quantify the spillover effect using some models and/or methods from existing literatures?
 
